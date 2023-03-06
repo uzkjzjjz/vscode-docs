@@ -10,5 +10,7 @@
     "markdown.validate.ignoredLinks": [
         "/Download",
         "/insiders"
+js    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
     ]
 }
